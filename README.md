@@ -50,7 +50,7 @@ If you want a quick demo or to hire me for a micro‑audit, open an issue in thi
 
 ## 📫 Contact
 - GitHub: https://github.com/yassinebelhajsalah-eng  
-- LinkedIn: (add your link)  
-- Email: (add your email)  
+- LinkedIn: https://www.linkedin.com/in/yassine-belhajsalah 
+- Email: yassine.bhs06@gmail.com 
 
 ---
