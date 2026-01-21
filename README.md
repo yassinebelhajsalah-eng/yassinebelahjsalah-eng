@@ -29,6 +29,8 @@ My goal: practical skills (Linux, Python, web security).
 ## ⭐ Starter projects
 - Recon CLI (Python) — domain → subdomains → nmap → dir‑fuzz → single‑page HTML report  
 
+---
+
 ## 🧰 Core skills & tools
 - Languages: Python (automation), Bash, Html/Css, PHP, SQL  
 - Tools: Burp Suite, nmap, ffuf, subfinder/amass, Wireshark  
